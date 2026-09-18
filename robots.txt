@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kkhyjvctj.github.io/sitemap.xml
